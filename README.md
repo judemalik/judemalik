@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Jude Malik
 
-<!--
-**judemalik/judemalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ **Java Developer | JavaScript Enthusiast | Software Engineer**  
+📧 **Email:** [jude.marsh1991@gmail.com](mailto:jude.marsh1991@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Skills
+
+- 🔹 **Java SE & EE** – Core Java, Servlets, JSP, JDBC  
+- 🔹 **JavaScript** – ES6+, DOM Manipulation, Async Programming, Node.js basics  
+- 🔹 **Frameworks:** Spring Boot, Hibernate, JPA  
+- 🔹 **Web Technologies:** RESTful APIs, JSON, XML  
+- 🔹 **Build Tools:** Maven, Gradle  
+- 🔹 **Databases:** MySQL, PostgreSQL, MongoDB  
+- 🔹 **Version Control:** Git, GitHub  
+
+---
+
+## 🚀 Interests & Projects
+
+- ✅ Backend service development with Java  
+- ✅ Full-stack development incorporating JavaScript  
+- ✅ Microservices architecture  
+- ✅ API design and implementation  
+- ✅ Unit testing & Test-Driven Development (TDD)  
+
+---
+
+## 🌱 Currently Learning
+
+- 📌 Cloud-native Java development (AWS, Azure)  
+- 📌 Reactive programming with Spring WebFlux  
+- 📌 Modern JavaScript frameworks (React, Vue)  
+- 📌 Containerization with Docker & Kubernetes  
+
+---
+
+> 🚀 Writing clean, scalable, and maintainable code across Java and JavaScript ecosystems.
